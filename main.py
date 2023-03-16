@@ -29,4 +29,4 @@ with open("example.png", "rb") as file:
           )
 
 st.write('コードが必要な方は下記よりダウンロード又はForkしてご利用下さい')
-st.write('https://github.com/norihisayamada/')
+st.write('https://github.com/norihisayamada/generate-QRCode')
